@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="search">
         搜索
     </div>
 </template>
@@ -11,5 +11,6 @@
 </script>
 
 <style lang="stylus" ref="stylesheet/stylus" scoped>
-
+.search
+ background #09f
 </style>

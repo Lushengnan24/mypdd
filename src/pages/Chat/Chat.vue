@@ -1,6 +1,6 @@
 <template>
-    <div>
-        购物车
+    <div class="chat">
+        消息
     </div>
 </template>
 
@@ -11,5 +11,6 @@
 </script>
 
 <style lang="stylus" ref="stylesheet/stylus" scoped>
-
+.chat
+    background #006
 </style>
